@@ -29,5 +29,7 @@ WebUI.click(findTestObject('Object Repository/LoginPage/Page_OrangeHRM/button_Lo
 
 WebUI.verifyElementText(findTestObject('LoginPage/Page_OrangeHRM/p_Invalid credentials'), 'Invalid credentials')
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 

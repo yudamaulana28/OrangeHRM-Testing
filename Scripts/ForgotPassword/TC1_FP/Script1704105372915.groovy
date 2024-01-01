@@ -27,5 +27,7 @@ WebUI.click(findTestObject('ForgotPassword/Page_OrangeHRM/button_Cancel'))
 
 WebUI.verifyElementPresent(findTestObject('LoginPage/Page_OrangeHRM/h5_Login'), 0)
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 

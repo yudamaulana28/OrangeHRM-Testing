@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>User reset password valid</description>
+   <description>User cancel reset password</description>
    <name>TC1_FP</name>
    <tag></tag>
    <comment></comment>

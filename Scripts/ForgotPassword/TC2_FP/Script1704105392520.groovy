@@ -30,5 +30,7 @@ WebUI.click(findTestObject('Object Repository/ForgotPassword/Page_OrangeHRM/butt
 WebUI.verifyElementPresent(findTestObject('Object Repository/ForgotPassword/Page_OrangeHRM/h6_Reset Password link sent successfully'), 
     0)
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 

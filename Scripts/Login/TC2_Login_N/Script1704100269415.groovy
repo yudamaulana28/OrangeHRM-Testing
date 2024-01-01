@@ -29,5 +29,7 @@ WebUI.click(findTestObject('Object Repository/LoginPage/Page_OrangeHRM/button_Lo
 
 WebUI.verifyElementText(findTestObject('LoginPage/Page_OrangeHRM/span_Required'), 'Required')
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 
