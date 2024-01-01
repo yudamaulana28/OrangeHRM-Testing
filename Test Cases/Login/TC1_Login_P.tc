@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can login</description>
+   <name>TC1_Login_P</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd2f4711-893e-4f1c-b746-83aaba8aa6a1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login with invalid password</description>
+   <name>TC5_Login_N</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86ef8fc2-bca0-4b00-a634-b400f2c7adaa</testCaseGuid>
+</TestCaseEntity>
