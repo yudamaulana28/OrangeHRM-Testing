@@ -6,12 +6,12 @@
    <elementGuidId>163c94a1-6e0c-4007-b153-47af016330a6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span/i</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>i.oxd-icon.bi-caret-down-fill.oxd-userdropdown-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>a86d24ff-8748-4e12-88f0-8b6bd8f175db</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/ul/li[4]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li:nth-of-type(4) > a.oxd-userdropdown-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/ul/li[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

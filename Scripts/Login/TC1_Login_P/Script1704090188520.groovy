@@ -31,9 +31,9 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/LoginPage/Page_Oran
 
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Logout/Page_OrangeHRM/i_Dashboard_oxd-icon bi-caret-down-fill oxd-userdropdown-icon'))
+WebUI.click(findTestObject('LoginPage/Page_OrangeHRM/i_Dashboard_oxd-icon bi-caret-down-fill oxd-userdropdown-icon'))
 
-WebUI.click(findTestObject('Logout/Page_OrangeHRM/a_Logout'))
+WebUI.click(findTestObject('LoginPage/Page_OrangeHRM/a_Logout'))
 
 WebUI.verifyElementPresent(findTestObject('LoginPage/Page_OrangeHRM/h5_Login'), 0)
 
