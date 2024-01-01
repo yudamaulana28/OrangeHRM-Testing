@@ -12,17 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>9779bafa-01a0-4152-86fb-760f6b286297</testSuiteGuid>
    <testCaseLink>
-      <guid>6e361a2e-fbd0-4db9-8f47-7c7261e6c820</guid>
+      <guid>fa591171-c1fd-422d-8f06-14980e703af5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ForgotPassword/TC1_FP</testCaseId>
+      <testCaseId>Test Cases/ForgotPassword/TC1_ForgotPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>49e3fc01-7133-4532-aee0-af6433513738</guid>
+      <guid>ff21cd32-d0aa-4ade-b617-c7825852b424</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ForgotPassword/TC2_FP</testCaseId>
+      <testCaseId>Test Cases/ForgotPassword/TC2_ForgotPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
