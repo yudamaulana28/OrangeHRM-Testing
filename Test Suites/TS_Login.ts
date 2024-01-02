@@ -17,6 +17,18 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login/TC1_Login_P</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0d8c672a-e064-4013-a163-9ac168ab3220</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b3a93851-8f65-49b0-b1d0-20345c9dbba7</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>949560f7-4e35-4f96-ae42-ab3721816811</guid>
